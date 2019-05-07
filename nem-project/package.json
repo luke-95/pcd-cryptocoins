@@ -1,0 +1,19 @@
+{
+  "name": "nem-project",
+  "version": "1.0.0",
+  "description": "NEM mini-app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "nem",
+    "test",
+    "app"
+  ],
+  "author": "Lucian Toma, Rapa Mihaela",
+  "license": "ISC",
+  "dependencies": {
+    "nem-sdk": "^1.6.7"
+  }
+}
